@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Posts and resources
 ---
 
 ### Recommender systems and personalization
