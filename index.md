@@ -2,4 +2,6 @@
 title: Posts and resources
 ---
 
-### Recommender systems and personalization
+As part of a series of posts, let's start with:
+1. [Recommender systems and personalization](https://michelevantini.github.io/blog/recs)
+
